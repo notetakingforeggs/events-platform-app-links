@@ -4,7 +4,7 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.notetakingforeggs.events_platform_frontend",
-        "sha256_cert_fingerprints": ["A8723850D56E8EC4748E8B26A4F1E10F5784A31D5969B25B7753BD4416F765A7"]
+        "sha256_cert_fingerprints": ["A8:72:38:50:D5:6E:8E:C4:74:8E:8B:26:A4:F1:E1:0F:57:84:A3:1D:59:69:B2:5B:77:53:BD:44:16:F7:65:A7"]
       }
     }
   ]
